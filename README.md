@@ -1,4 +1,4 @@
-# Credit Card Default Prediction (Classification Project)
+# Credit Risk Classification – Machine Learning Project
 
 ## 📌 Project Overview
 This project builds multiple classification models to predict credit card default risk.  
